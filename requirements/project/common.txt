@@ -1,1 +1,2 @@
 # project specific requirements shared by dev, stag and prod
+django-userena>=1.4.1,<1.5.0
