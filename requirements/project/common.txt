@@ -1,2 +1,3 @@
 # project specific requirements shared by dev, stag and prod
 django-userena>=1.4.1,<1.5.0
+django-celery-email>=1.1.3,<1.2.0

@@ -10,6 +10,7 @@ INSTALLED_APPS += (
     'guardian',
     'easy_thumbnails',
     'accounts',
+    'djcelery_email',
 )
 
 
